@@ -48,6 +48,7 @@ Captures the loan type the customer is interested in:
 --
 
 ## 📁 Project Structure
+
 │── main.py (agent definitions + chat workflows)
 │── autogen workflow (ConversableAgents)
 │── Multi-agent orchestration
@@ -64,8 +65,3 @@ Captures the loan type the customer is interested in:
 
 --
 
-## ▶️ How to Run
-pip install autogen gradio
-python main.py
-
---
